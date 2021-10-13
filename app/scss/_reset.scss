@@ -15,7 +15,8 @@ body, h1,h2,h3,h4,h5,h6,p,ul[class],
 ol[class], li, figure,figcaption,blockquote,dl,dd{
     margin: 0;
 }
-ul[class] {
+ul[class],
+li {
     list-style: none;
 }
 img{
